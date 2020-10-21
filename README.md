@@ -1,2 +1,5 @@
 # MLS_MPM_CPIC
-CPIC cases implemented with taichi.
+CPIC(Compatible Particle-in-Cell) cases implemented with taichi.
+These cases mainly based on the paper (A Moving Least Squares Material Point Method with Displacement
+Discontinuity and Two-Way Rigid Body Coupling)[].
+![]()

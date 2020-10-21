@@ -10,12 +10,13 @@ For running codes, just install python and corresponding Taichi package.
 For installing taichi, please refer to [Taichi Doc](https://taichi.readthedocs.io/en/stable/) for details.
 
 ## Cutting_thin
-In this case, a suspended solid block is cut by a thin plate. No penalty force and impulse on the rigid body are implemented.
+In this case, a suspended solid block is cut by a thin plate. No penalty force and impulse on the rigid body are implemented.  
+
 ![image](https://github.com/Zhijie-YU/MLS_MPM_CPIC/blob/main/figures/cut.gif)
 
 ## Rotating_fan
-In this case, a rotating fan interacts with granular particles flowing down.
-
+In this case, a rotating fan interacts with granular particles flowing down.  
 The number of fan blades and its initial angular velocity can be adpated. 
+
 ![image](https://github.com/Zhijie-YU/MLS_MPM_CPIC/blob/main/figures/fan.gif)
 

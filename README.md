@@ -2,7 +2,7 @@
 ## Introduction
 An implementation of CPIC(Compatible Particle-in-Cell) cases Taichi lang where MLS-MPM and rigid body collision techniques are adopted.  
 These cases mainly based on the paper [A Moving Least Squares Material Point Method with Displacement
-Discontinuity and Two-Way Rigid Body Coupling](https://github.com/Zhijie-YU/MLS_MPM_CPIC/blob/main/2018_mlsmpm.pdf).  
+Discontinuity and Two-Way Rigid Body Coupling](https://www.seas.upenn.edu/~cffjiang/research/mlsmpm/hu2018mlsmpm.pdf).  
 Please install Python 3.x and corresponding Taichi package for running the scripts included here.  
 For installing Taichi, please refer to [Taichi Doc](https://taichi.readthedocs.io/en/stable/) for details.
 
